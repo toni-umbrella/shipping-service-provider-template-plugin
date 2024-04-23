@@ -1,13 +1,13 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Helpers;
+namespace ShippingServiceProviderTemplateRitter\Helpers;
 
 /**
  * Class ShippingServiceProvider
- * @package ShippingServiceProviderTemplate\Helpers
+ * @package ShippingServiceProviderTemplateRitter\Helpers
  */
 class ShippingServiceProvider
 {
-    const PLUGIN_NAME = "ShippingServiceProviderTemplate";
+    const PLUGIN_NAME = "ShippingServiceProviderTemplateRitter";
     const SHIPPING_SERVICE_PROVIDER_NAME = "Ritter Spedition";
 }
