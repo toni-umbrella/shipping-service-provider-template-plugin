@@ -1,12 +1,12 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Controllers;
+namespace ShippingServiceProviderTemplateRitter\Controllers;
 
 use Plenty\Plugin\Controller;
 
 /**
  * Class ShipmentController
- * @package ShippingServiceProviderTemplate\Controllers
+ * @package ShippingServiceProviderTemplateRitter\Controllers
  */
 class ShipmentController extends Controller
 {
