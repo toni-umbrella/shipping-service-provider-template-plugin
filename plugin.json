@@ -1,5 +1,5 @@
 {
-    "name"              :   "ShippingServiceProviderTemplate",
+    "name"              :   "ShippingServiceProviderTemplateRitter",
     "namespace"         :   "ShippingServiceProviderTemplate",
     "type"              :   "shipping",
     "version"           :   "1.0.0",
