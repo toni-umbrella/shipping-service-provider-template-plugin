@@ -1,13 +1,13 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Providers;
+namespace ShippingServiceProviderTemplateRitter\Providers;
 
 use Plenty\Plugin\RouteServiceProvider as PlentyRouteServiceProvider;
 use Plenty\Plugin\Routing\Router;
 
 /**
  * Class RouteServiceProvider
- * @package ShippingServiceProviderTemplate\Providers
+ * @package ShippingServiceProviderTemplateRitter\Providers
  */
 class RouteServiceProvider extends PlentyRouteServiceProvider
 {
@@ -16,6 +16,6 @@ class RouteServiceProvider extends PlentyRouteServiceProvider
      */
     public function map(Router $router)
     {
-        // $router->get('hello-world','ShippingServiceProviderTemplate\Controllers\Controller@getHelloWorldPage');
+        // $router->get('hello-world','ShippingServiceProviderTemplateRitter\Controllers\Controller@getHelloWorldPage');
     }
 }
