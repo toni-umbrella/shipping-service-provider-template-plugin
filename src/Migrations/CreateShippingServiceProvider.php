@@ -1,14 +1,14 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Migrations;
+namespace ShippingServiceProviderTemplateRitter\Migrations;
 
-use ShippingServiceProviderTemplate\Helpers\ShippingServiceProvider;
+use ShippingServiceProviderTemplateRitter\Helpers\ShippingServiceProvider;
 use Plenty\Modules\Order\Shipping\ServiceProvider\Contracts\ShippingServiceProviderRepositoryContract;
 use Plenty\Plugin\Log\Loggable;
 
 /**
  * Class CreateShippingServiceProvider
- * @package ShippingServiceProviderTemplate\Migrations
+ * @package ShippingServiceProviderTemplateRitter\Migrations
  */
 class CreateShippingServiceProvider
 {
